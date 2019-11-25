@@ -1,4 +1,4 @@
-module github.com/tensorflow/tensorflow/tensorflow
+module github.com/topos-ai/tensorflow-proto/go/tensorflow
 
 go 1.13
 
